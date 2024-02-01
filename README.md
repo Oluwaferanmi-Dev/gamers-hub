@@ -14,9 +14,7 @@ Welcome to Gamers Mart, your one-stop destination for purchasing gaming PCs, PC 
 
 - **Upcoming Features:** Look forward to upcoming features, including a secure payment system and a cart for easy purchases.
 
-## Screenshots
 
-Include one or more screenshots of your Gamers Mart website. This can help potential users get a glimpse of the user interface.
 
 ## How to Use
 
