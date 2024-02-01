@@ -114,8 +114,8 @@ aria-label = add to whishlist
 aria-label = compare
 <ion-icon name="repeat-outline" aria-hidden="true"></ion-icon>
 
-$39.00
-$29.00
+$429
+$300
 
 Facial cleanser
 
@@ -156,13 +156,13 @@ Shop All Products
 
 New Collection
 
-Discover Our Autumn Skincare
+Discover Our Winter sales
 
 Explore More
 
 25% off Everything
 
-Makeup with extended range in colors for every human.
+Get the best on the market.
 
 Shop Sale
 
@@ -170,11 +170,11 @@ Shop Sale
 
 #---------- FEATURE ----------#
 
-Why Shop with Glowing?
+WHY SHOP WITH GAMERS HUB?
 
-alt = Guaranteed PURE
+alt = BEST DEALS
 
-Guaranteed PURE
+BEST DEALS
 
 All Grace formulations adhere to strict purity standards and will never contain harsh or toxic ingredients
 
@@ -196,7 +196,7 @@ aria-label = 20% off
 
 -20%
 
-Mountain Pine Bath Oil
+RTX 4090 BUILD
 
 Made using clean, non-toxic ingredients, our products are designed for everyone.
 
@@ -212,7 +212,7 @@ aria-label = minutes
 aria-label = seconds
 08
 
-Get Only $39.00
+Get Only $429
 
 
 
