@@ -1,6 +1,6 @@
-# Gamers Mart
+# Gamers Hub
 
-Welcome to Gamers Mart, your one-stop destination for purchasing gaming PCs, PC parts, and accessories. This web application is designed using HTML, CSS, and JavaScript, providing a user-friendly interface to explore and buy gaming-related products.
+Welcome to Gamers Hub, your one-stop destination for purchasing gaming PCs, PC parts, and accessories. This web application is designed using HTML, CSS, and JavaScript, providing a user-friendly interface to explore and buy gaming-related products.
 
 ## Features
 
@@ -20,4 +20,4 @@ Welcome to Gamers Mart, your one-stop destination for purchasing gaming PCs, PC 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Oluwaferanmi-Dev/gamers-mart.git
+   git clone https://github.com/Oluwaferanmi-Dev/gamers-hub.git
